@@ -6,7 +6,7 @@ A simple yet powerful Flask-based web app that uses a Transformer model to summa
 
 ## 🌐 Live Demo
 
-> 📸 — images/image.png
+![App Screenshot](images/image.png)
 
 ---
 
